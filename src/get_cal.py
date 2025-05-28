@@ -93,3 +93,4 @@ if __name__ == "__main__":
 
     files_csv = BulkSemiannualEvaluation(os.path.abspath(sys.argv[1]))
     files_csv.convert_bulk()
+

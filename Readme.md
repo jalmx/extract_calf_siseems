@@ -13,3 +13,9 @@ Se descarga la pagina con el contenido y extrae los datos de cada renglón, con 
 |1|12345678|APELLIDO 1 APELLIDO 2 NOMBRE|8|3|7|6|
 |1|12345678|APELLIDO 1 APELLIDO 2 NOMBRE|8|3|7|6|
 |1|12345678|APELLIDO 1 APELLIDO 2 NOMBRE|8|3|7|6|
+
+## How to use
+
+```bash
+python get_cal.py <path_folder>
+```
